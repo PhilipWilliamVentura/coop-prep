@@ -3,12 +3,6 @@
 Start with Blind 75, then NeetCode 150, solved in pattern order. Every solution written and explained
 before submitting to LeetCode.
 
-## Progress
-
-| # | Problem | Pattern | Difficulty | Time Taken | Date | Notes |
-|---|---|---|---|---|---|---|
-| 1 | Two Sum | Arrays/Hashing | Easy | | | |
-
 ## Patterns Checklist
 
 - [ ] Arrays & Hashing
