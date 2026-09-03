@@ -30,3 +30,6 @@ Built from scratch to force actual understanding, not just recognition.
 - [ ] Cross-validation
 - [ ] Activation functions and why they matter
 - [ ] Batch norm / dropout
+
+## Resources
+https://www.ml-150.com
