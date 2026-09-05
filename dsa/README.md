@@ -5,7 +5,7 @@ before submitting to LeetCode.
 
 ## Patterns Checklist
 
-- [ ] Arrays & Hashing
+- [x] Arrays & Hashing
 - [ ] Two Pointers
 - [ ] Sliding Window
 - [ ] Stack
