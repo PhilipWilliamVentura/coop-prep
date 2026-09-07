@@ -6,7 +6,7 @@ before submitting to LeetCode.
 ## Patterns Checklist
 
 - [x] Arrays & Hashing
-- [ ] Two Pointers
+- [x] Two Pointers
 - [ ] Sliding Window
 - [ ] Stack
 - [ ] Binary Search
@@ -29,4 +29,4 @@ Each file starts with a header comment:
 
 ## Redo List (flag problems to revisit cold in weeks 7–8)
 
-- TBD
+- binary-search/find-minimum-in-rotated-sorted-array
