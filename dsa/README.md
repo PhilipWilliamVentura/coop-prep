@@ -7,9 +7,9 @@ before submitting to LeetCode.
 
 - [x] Arrays & Hashing
 - [x] Two Pointers
-- [ ] Sliding Window
+- [x] Sliding Window
 - [ ] Stack
-- [ ] Binary Search
+- [x] Binary Search
 - [ ] Linked List
 - [ ] Trees
 - [ ] Heap / Priority Queue
