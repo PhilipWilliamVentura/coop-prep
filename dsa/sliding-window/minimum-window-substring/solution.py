@@ -1,5 +1,5 @@
 # Pattern: Sliding Window
-# Time: O(n) | Space: O(m)
+# Time: O(n*m) | Space: O(k) where k is the number of unique characters in s and t
 # Tripped up on: count occurences in hashmaps and keep track of a have and need variable.
 #                store r and l pointers in res and update resLen - storing substring less efficient
 class Solution:
