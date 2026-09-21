@@ -8,9 +8,9 @@ before submitting to LeetCode.
 - [x] Arrays & Hashing
 - [x] Two Pointers
 - [x] Sliding Window
-- [ ] Stack
+- [x] Stack
 - [x] Binary Search
-- [ ] Linked List
+- [x] Linked List
 - [ ] Trees
 - [ ] Heap / Priority Queue
 - [ ] Backtracking
@@ -30,3 +30,4 @@ Each file starts with a header comment:
 ## Redo List (flag problems to revisit cold in weeks 7–8)
 
 - binary-search/find-minimum-in-rotated-sorted-array
+- linked-list/merge-k-sorted-lists
